@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IQFNs2P1u+905OhSVvJbYJ5BkbrTq+RzU+KFI3t85kbzOEY6ikF9N0xYJrwnmwKPfVncXadz30Ko94JHdK/wVA==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\Kuliah\\Matkul\\Semester 4\\KPL\\TP\\Mod6\\mod6\\mod6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wilda\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.2\\microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512",
+    "C:\\Users\\wilda\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\wilda\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
