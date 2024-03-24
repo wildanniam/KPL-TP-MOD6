@@ -1,0 +1,15 @@
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod6\mod6\bin\Debug\net8.0\mod6.exe
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod6\mod6\bin\Debug\net8.0\mod6.deps.json
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod6\mod6\bin\Debug\net8.0\mod6.runtimeconfig.json
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod6\mod6\bin\Debug\net8.0\mod6.dll
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod6\mod6\bin\Debug\net8.0\mod6.pdb
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod6\mod6\obj\Debug\net8.0\mod6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod6\mod6\obj\Debug\net8.0\mod6.AssemblyInfoInputs.cache
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod6\mod6\obj\Debug\net8.0\mod6.AssemblyInfo.cs
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod6\mod6\obj\Debug\net8.0\mod6.csproj.CoreCompileInputs.cache
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod6\mod6\obj\Debug\net8.0\mod6.sourcelink.json
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod6\mod6\obj\Debug\net8.0\mod6.dll
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod6\mod6\obj\Debug\net8.0\refint\mod6.dll
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod6\mod6\obj\Debug\net8.0\mod6.pdb
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod6\mod6\obj\Debug\net8.0\mod6.genruntimeconfig.cache
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod6\mod6\obj\Debug\net8.0\ref\mod6.dll
