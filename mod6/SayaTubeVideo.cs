@@ -17,11 +17,52 @@ namespace mod6
             Random randomID = new Random();
             id = randomID.Next(10000, 99999);
             playCount = 0;
+
+            try
+            {
+                this.title = title;
+
+                if (title == null)
+                {
+                    throw new ArgumentOutOfRangeException();
+                }
+
+                if (title.Length > 100)
+                {
+                    throw new ArgumentOutOfRangeException();
+                }
+            }
+            catch (ArgumentNullException n_exc)
+            {
+                Console.WriteLine(n_exc.Message);
+            }
+
+            catch (ArgumentOutOfRangeException ofvexc)
+            {
+                Console.WriteLine(ofvexc.Message);
+            }
         }
 
         public void IncreasePlayCount(int value)
         {
-            this.playCount = playCount;
+            try
+            {
+                checked
+                {
+                    playCount += value;
+                    if (playCount + value > 10000000) throw new ArgumentOutOfRangeException();
+                }
+            }
+
+            catch (ArgumentOutOfRangeException argex)
+            {
+                Console.WriteLine(argex.Message);
+            }
+
+            catch (OverflowException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
         }
 
         public void PrintVideoDetails() {
